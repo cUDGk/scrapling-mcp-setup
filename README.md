@@ -1,9 +1,19 @@
+<div align="center">
+
+# Scrapling MCP セットアップガイド
+
+### Scrapling × Claude Code
+
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-8B5CF6?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![Scrapling](https://img.shields.io/badge/Scrapling-v0.4.2-E65100?style=for-the-badge)](https://github.com/D4Vinci/Scrapling)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-# Scrapling MCP セットアップガイド
+**Scrapling を Claude Code の MCP サーバーとしてセットアップするガイド**
+
+---
+
+</div>
 
 ## 概要
 
