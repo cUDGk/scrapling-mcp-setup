@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-8B5CF6?style=for-the-badge)](https://modelcontextprotocol.io/)
-[![Scrapling](https://img.shields.io/badge/Scrapling-v0.4.2-E65100?style=for-the-badge)](https://github.com/D4Vinci/Scrapling)
+[![Scrapling](https://img.shields.io/badge/Scrapling-v0.4.8-E65100?style=for-the-badge)](https://github.com/D4Vinci/Scrapling)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **Scrapling を Claude Code の MCP サーバーとしてセットアップするガイド**
@@ -76,7 +76,7 @@ Claude Code の設定ファイル（`settings.json`）に以下を追加しま�
 
 ## バージョン情報
 
-- Scrapling: **v0.4.2**
+- Scrapling: **v0.4.8**
 - MCP サポート: v0.4.x 以降
 
 ## 公式ドキュメント
